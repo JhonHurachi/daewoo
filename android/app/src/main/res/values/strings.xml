@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chef Peruano</string>
+    <string name="facebook_app_id">549185308997081</string>
+    <string name="fb_login_protocol_scheme">fb549185308997081</string>
+</resources>

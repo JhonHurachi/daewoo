@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935182882227",
+    "firebase_url": "https://daewoochef.firebaseio.com",
+    "project_id": "daewoochef",
+    "storage_bucket": "daewoochef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935182882227:android:646067197b4cb1da7227c6",
+        "android_client_info": {
+          "package_name": "com.example.daewoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935182882227-f5su5hneock01sahelmvg1k1ennli8he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daewoo",
+            "certificate_hash": "30c7cd93c2050c2cced2b5dd2463432d7de1b598"
+          }
+        },
+        {
+          "client_id": "935182882227-5b13ktlun2mkd184gk0hasdlu3vtof34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAovSYseCBLOWqtZD1EVgCnd93H6BdyHZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935182882227-5b13ktlun2mkd184gk0hasdlu3vtof34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
